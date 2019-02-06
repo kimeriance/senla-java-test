@@ -6,7 +6,7 @@ V.Krasnikov
 
 kimeriance@gmail.com
 
-Tasks info: https://github.com/kimeriance/senla-java-test/blob/master/Testovoe-zadanie-2019-2.pdf
+Task info [RU]: https://github.com/kimeriance/senla-java-test/blob/master/Testovoe-zadanie-2019-2.pdf
 # **Runtime screenshots:**
 
 
