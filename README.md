@@ -1,5 +1,5 @@
 Application for SENLA Java courses 2019.
-Repository includes Java source codes for each of six tasks.
+Repository includes Java source code for each of six tasks.
 
 Made by
 V.Krasnikov
